@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "635669134252",
+    "firebase_url": "https://moawen-3e790-default-rtdb.firebaseio.com",
+    "project_id": "moawen-3e790",
+    "storage_bucket": "moawen-3e790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635669134252:android:7534a03d688409825dd809",
+        "android_client_info": {
+          "package_name": "com.example.moawen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635669134252-kejeqrr6ckelgnrb7ts9aug4naocf3nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2kkoHPwZa0WEyPLpltxGd5NRXkyEW3CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635669134252-kejeqrr6ckelgnrb7ts9aug4naocf3nb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635669134252-arreskcpkq70o9i9v7071eg2h05bfeig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.moawen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
